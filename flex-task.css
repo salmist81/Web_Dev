@@ -58,11 +58,14 @@ p {
     font-size: .75rem;
 }
 .gallery {
-    /* display: flex; */
+    display: flex;
     /* padding:0 5rem; */
     /* gap: 5rem; */    
 }
 
+.gallery img {
+    width: 100%;
+}
  
     
    
